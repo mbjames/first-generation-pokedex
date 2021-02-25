@@ -8,3 +8,5 @@ https://www.sublimetext.com/3
 py --version
 # Run python program on Windows
 py filename.py
+# Pydroid 3
+https://www.makeuseof.com/install-pydroid-android/
