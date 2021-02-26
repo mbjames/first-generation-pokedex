@@ -1,5 +1,5 @@
 # Pokedex
-1st Generation Pokedex
+1st Gen Pokedex
 # Python 
 https://www.python.org/downloads/
 # Text Editor 
