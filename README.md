@@ -1,3 +1,3 @@
 # Pokedex
-1st Gen Pokedex
+1st Generation pokedex
 
