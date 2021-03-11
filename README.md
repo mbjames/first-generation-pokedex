@@ -1,8 +1,9 @@
 # first_generation_pokedex
 First generation pokedex using ascii prints and built-in webbrowser module.
-# Python
+## To Run The Source Code
+# Download Python
 https://www.python.org/downloads/
-# Display Python Version In Windows
+# Verify Version Once Installed
 py --version
-# Run Python Program In Windows
-py filename.py
+# From Your Download Directory Run The Source Code
+py pokedex.py
