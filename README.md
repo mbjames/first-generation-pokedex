@@ -1,4 +1,4 @@
-# first_generation_pokedex
+# Pokedex
 First generation pokedex using ascii prints and built-in webbrowser module.
 # To Run The Source Code
 #### Download Python
