@@ -10,5 +10,3 @@ py --version
 py pokedex.py
 # Run The Executable (Windows Only)
 ![image](https://user-images.githubusercontent.com/23516793/110724251-4838f000-81ca-11eb-87d5-5fd214e39691.png)
-# Screenshot
-![image](https://user-images.githubusercontent.com/23516793/114793867-2ccc8200-9d40-11eb-8115-157f9c3849ae.png)
