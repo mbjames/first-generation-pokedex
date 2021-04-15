@@ -10,3 +10,5 @@ py --version
 py pokedex.py
 # Run The Executable (Windows Only)
 ![image](https://user-images.githubusercontent.com/23516793/110724251-4838f000-81ca-11eb-87d5-5fd214e39691.png)
+# Executable Was Created With PyInstaller
+https://www.pyinstaller.org/
