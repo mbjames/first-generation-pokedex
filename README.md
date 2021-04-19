@@ -1,6 +1,5 @@
-# ASCII Dex
-#### First Generation Pokedex
-Text based first generation pokedex using built-in webbrowser module.
+# First Generation Pokedex
+Text based first generation pokedex.
 # Run The Source Code
 #### Download Python
 https://www.python.org/downloads/
