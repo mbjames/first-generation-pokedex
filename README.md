@@ -1,5 +1,5 @@
 # First Generation Pokedex
-Text based first generation pokedex.
+First generation pokedex application.
 # Run The Source Code
 #### Download Python
 https://www.python.org/downloads/
