@@ -2,9 +2,12 @@ import pokemon_images
 import pokemon
 import pokemon_directory
 import webbrowser
+import banner
 
 
 def menu():
+    banner.print_banner()
+
     print("\n Please select a pokedex number. (1 - 151)")
     print(" Type (d) for a pokemon directory.")
     print(" Type (q) to exit.")
